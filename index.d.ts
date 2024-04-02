@@ -44,4 +44,5 @@ declare const FontAwesomeIcon: DefineComponent<FontAwesomeIconProps>
 declare const FontAwesomeLayers: DefineComponent<FontAwesomeLayersProps>
 declare const FontAwesomeLayersText: DefineComponent<FontAwesomeLayersTextProps>
 
-export { FontAwesomeIcon, FontAwesomeLayers, FontAwesomeLayersText }
+export { FontAwesomeIcon, FontAwesomeIconProps, FontAwesomeLayers, FontAwesomeLayersText }
+
